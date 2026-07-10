@@ -69,12 +69,24 @@ Network and Systems Engineering student with CCNA1 certification. I build modern
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amadou16neuer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=00D4FF&title_color=00D4FF&text_color=FFFFFF" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=Amadou16neuer&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadou16neuer&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="40%" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadou16neuer&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=Amadou16neuer&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="50%" />
 </div>
+
+---
+
+## Activity Overview
+
+| Year | Contributions |
+|:---:|:---:|
+| **2025** | 131 |
+| **2026** | 76 |
+| **Total** | **207** |
 
 ---
 
