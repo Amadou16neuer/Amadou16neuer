@@ -49,7 +49,7 @@ Network and Systems Engineering student with CCNA1 certification. I build modern
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-### Systems & Security (Learning)
+### Systems & Security
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -62,31 +62,6 @@ Network and Systems Engineering student with CCNA1 certification. I build modern
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amadou16neuer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=00D4FF&title_color=00D4FF&text_color=FFFFFF" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadou16neuer&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="40%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amadou16neuer&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="50%" />
-</div>
-
----
-
-## Activity Overview
-
-| Year | Contributions |
-|:---:|:---:|
-| **2025** | 131 |
-| **2026** | 76 |
-| **Total** | **207** |
 
 ---
 
